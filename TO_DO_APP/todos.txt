@@ -1,9 +1,5 @@
 Function implement successfully
 Functions added write methods
-Need to complete Genai
-New Task added
-Modules added
-Tuning added
-Adding Edit Button
-Adding another
-Updated
+Complete Gen Ai
+Complete Python
+Complete django
