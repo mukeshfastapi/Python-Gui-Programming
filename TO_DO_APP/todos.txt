@@ -1,6 +1,4 @@
 Function implement successfully
-Functions added write methods
 Complete Gen Ai
 Complete Python
-Complete django
-New Todo
+Complete Web App
